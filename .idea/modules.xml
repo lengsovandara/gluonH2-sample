@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonH2.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonH2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonH2_android.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonH2_android.iml" group="GluonH2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonH2_desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonH2_desktop.iml" group="GluonH2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonH2_embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonH2_embedded.iml" group="GluonH2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonH2_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonH2_ios.iml" group="GluonH2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonH2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonH2_main.iml" group="GluonH2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GluonH2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GluonH2_test.iml" group="GluonH2" />
+    </modules>
+  </component>
+</project>
